@@ -1,0 +1,31 @@
+.hero {
+  background-color: rgb(96, 99, 117);
+  background-image: url('../assets/hero.jpg');
+  background-size: cover;
+  background-blend-mode:multiply; ;
+  background-position: center;
+  position: relative;
+  z-index: 1;
+  height: 100vh;
+  margin-bottom: 0;
+}
+
+#about {
+  margin-top: 0; /* Ajusta según sea necesario */
+}
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  /* Ajusta la opacidad según sea necesario */
+  z-index: 1;
+}
+
+.space-x-4> :not([hidden])~ :not([hidden]) {
+  --tw-space-x-reverse: 0;
+  margin-right: calc(1rem * var(--tw-space-x-reverse));
+  margin-left: calc(1rem * calc(1 - var(--tw-space-x-reverse)));
+}

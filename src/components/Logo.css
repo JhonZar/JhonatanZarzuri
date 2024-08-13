@@ -1,0 +1,12 @@
+.logo-svg {
+  width: 3rem;  /* Ajusta el tamaño relativo */
+  height: 3rem; /* Ajusta el tamaño relativo */
+  display: block;
+}
+
+.logo-svg path {
+  stroke: white;
+  stroke-width: 20;
+  fill: none;
+  stroke-linecap: round;
+}
