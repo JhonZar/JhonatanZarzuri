@@ -1,0 +1,44 @@
+{
+    "nav": {
+        "home": "Inicio",
+        "about": "Sobre Mí",
+        "skills": "Habilidades",
+        "experience": "Experiencia",
+        "projects": "Proyectos",
+        "contact": "Contacto"
+    },
+    "hero": {
+        "title": "Desarrollador de Software",
+        "subtitle": "Especializado en Full Stack: React, TypeScript, Laravel y Django.",
+        "cta": "Ver Proyectos",
+        "contact": "Contactar"
+    },
+    "about": {
+        "title": "Sobre Mí",
+        "content": "Soy un desarrollador de software apasionado de Bolivia con una trayectoria de crecimiento constante, desde pasante hasta consultor. Me enfoco en construir aplicaciones web robustas, escalables y eficientes, con especial énfasis en la calidad del código y la arquitectura.",
+        "history": "Mi camino comenzó con la curiosidad de cómo funcionaba la web, lo que me llevó a profesionalizarme rápidamente en el ecosistema de JavaScript y PHP/Python. He trabajado en proyectos que van desde MVPs rápidos hasta refactorizaciones a gran escala de sistemas empresariales."
+    },
+    "skills": {
+        "title": "Habilidades Técnicas",
+        "frontend": "Frontend",
+        "backend": "Backend",
+        "tools": "Herramientas & Otros"
+    },
+    "experience": {
+        "title": "Experiencia Profesional",
+        "present": "Presente",
+        "roles": {
+            "consultant": "Consultor de Software",
+            "developer": "Desarrollador Full Stack",
+            "intern": "Pasantía de Desarrollo"
+        }
+    },
+    "contact": {
+        "title": "Contacto",
+        "name": "Nombre",
+        "email": "Correo Electrónico",
+        "message": "Mensaje",
+        "send": "Enviar Mensaje",
+        "success": "¡Mensaje enviado con éxito!"
+    }
+}

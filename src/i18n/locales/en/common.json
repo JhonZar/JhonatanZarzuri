@@ -1,0 +1,44 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "skills": "Skills",
+        "experience": "Experience",
+        "projects": "Projects",
+        "contact": "Contact"
+    },
+    "hero": {
+        "title": "Software Developer",
+        "subtitle": "Specialized in Full Stack: React, TypeScript, Laravel, and Django.",
+        "cta": "View Projects",
+        "contact": "Get in Touch"
+    },
+    "about": {
+        "title": "About Me",
+        "content": "I am a passionate software developer from Bolivia with a track record of steady growth, from intern to consultant. I focus on building robust, scalable, and efficient web applications, with a special emphasis on code quality and architecture.",
+        "history": "My journey began with curiosity about how the web worked, which led me to quickly professionalize in the JavaScript and PHP/Python ecosystem. I've worked on projects ranging from rapid MVPs to large-scale refactoring of enterprise systems."
+    },
+    "skills": {
+        "title": "Technical Skills",
+        "frontend": "Frontend",
+        "backend": "Backend",
+        "tools": "Tools & Others"
+    },
+    "experience": {
+        "title": "Professional Experience",
+        "present": "Present",
+        "roles": {
+            "consultant": "Software Consultant",
+            "developer": "Full Stack Developer",
+            "intern": "Development Intern"
+        }
+    },
+    "contact": {
+        "title": "Contact",
+        "name": "Name",
+        "email": "Email",
+        "message": "Message",
+        "send": "Send Message",
+        "success": "Message sent successfully!"
+    }
+}
